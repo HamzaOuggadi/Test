@@ -1,4 +1,4 @@
-package net.hamzaouggadi.listeners;
+package net.hamzaouggadi.jabir.listeners;
 
 public class MouseListener {
     private static MouseListener instance = null;
